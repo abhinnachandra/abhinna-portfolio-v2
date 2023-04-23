@@ -324,7 +324,7 @@ section {
   margin-bottom: 2rem;
 }
 
-.experience-details-container {
+.experience-details-container, .projects-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
