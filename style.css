@@ -430,6 +430,11 @@ article .icon {
   height: 2.5rem;
 }
 
+.section__text__p3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
 /* FOOTER SECTION */
 
 #footer {
