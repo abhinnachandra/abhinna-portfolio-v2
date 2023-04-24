@@ -405,7 +405,7 @@ article .icon {
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
-  background: (250,250,250);
+  background: rgb(250,250,250);
   margin: 2rem auto;
   padding: 0.5rem;
 }
@@ -430,15 +430,10 @@ article .icon {
   height: 2.5rem;
 }
 
-.section__text__p3 {
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
-}
-
 /* FOOTER SECTION */
 
 #footer {
-  height: 26vh;
+  height: 15vh;
   margin: 0 1rem;
 }
 
