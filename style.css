@@ -324,7 +324,7 @@ section {
   margin-bottom: 2rem;
 }
 
-.experience-details-container, .projects-details-container {
+.experience-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -375,6 +375,19 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+}
+
+.projects-details-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.projects-sub-title, project-title {
+  color: rgb(85,85,85);
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
 }
 
 /* CONTACT SECTION */
